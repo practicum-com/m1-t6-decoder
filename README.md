@@ -1,5 +1,5 @@
-# Шифр Цезаря
+# Caesar cipher
 
-Мы зашифровали для вас сообщение. Чтобы его расшифровать, вам понадобятся знания про JAR.
+We've encrypted a message for you. To decrypt it, you will need knowledge about JAR.
 
-Соберите проект из 2 файлов и выполните его, начиная с класса DecoderTest.java.
+Build the project from 2 files and execute it, starting with the `DecoderTest.java` class.
